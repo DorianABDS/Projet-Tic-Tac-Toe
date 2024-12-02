@@ -18,7 +18,7 @@ def check(m):
         return 0
 
     if(m[0][2]==m[1][1]==m[2][0]!=" "):
-        printprint('GG le joueur:',m[1][1])
+        print('GG le joueur:',m[1][1])
         return 0
 
     #on verifie qu'il reste des cases a remplir
