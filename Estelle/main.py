@@ -57,4 +57,4 @@ def tic_tac_toe():
         joueur = "O" if joueur == "X" else "X"
 
 if __name__ == "__main__":
-    tic_tac_toe() 
+    tic_tac_toe()
